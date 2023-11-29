@@ -1,0 +1,2 @@
+# JSclass
+js class
